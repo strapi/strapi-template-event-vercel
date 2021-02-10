@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stages",
+  "info": {
+    "name": "stage"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "uid"
+    },
+    "stream": {
+      "type": "string"
+    },
+    "schedule": {
+      "collection": "talk"
+    },
+    "order": {
+      "type": "string"
+    },
+    "discord": {
+      "type": "string"
+    }
+  }
+}

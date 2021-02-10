@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "talks",
+  "info": {
+    "name": "talk",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "start": {
+      "type": "datetime"
+    },
+    "end": {
+      "type": "datetime"
+    },
+    "description": {
+      "type": "text"
+    },
+    "speakers": {
+      "collection": "speaker",
+      "via": "talk"
+    }
+  }
+}

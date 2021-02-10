@@ -1,0 +1,961 @@
+{
+  "sponsors": [
+    {
+      "id": 1,
+      "slug": "acme",
+      "name": "ACME",
+      "website": "https://vercel.com",
+      "description": "ACME redefines what it means to develop, providing you the cutting-edge technology with half the effort.",
+      "discord": "https://discord.com",
+      "youtubeSlug": "1-NzQ9ObsfM",
+      "tier": "1",
+      "tierRank": "gold",
+      "callToAction": "Learn More",
+      "callToActionLink": "https://vercel.com",
+      "links": [
+        {
+          "__component": "links.link",
+          "id": 9,
+          "text": "Learn about ACME",
+          "url": "https://vercel.com"
+        }
+      ],
+      "logo": null,
+      "cardImage": null
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "companyName": "Vercel",
+      "title": "Developer Relations Lead",
+      "description": "Vercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
+    },
+    {
+      "id": 2,
+      "companyName": "Vercel",
+      "title": "Security Lead",
+      "description": "The Security Lead at Vercel will work closely with engineering and product teams to ensure that security is top-priority in all of our work. The role will also require designing and implementing technical controls to enforce strong security guarantees by default, as well as supporting audits for certification and compliance programs, such as SOC 2, GDPR, and ISO 27001.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
+    },
+    {
+      "id": 3,
+      "companyName": "Vercel",
+      "title": "Field Engineer / Solutions Architect",
+      "description": "Vercel Field Engineering is an integral part of our business, showcasing Vercel's products, working with our users and customers, understanding their business goals and technical requirements, and distilling complex problems into understandable, achievable solutions.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
+    },
+    {
+      "id": 4,
+      "companyName": "Vercel",
+      "title": "Account Executive / Sr. Account Executive",
+      "description": "Vercel's sales team is full of bright, hardworking Account Executives who are helping us create a new category. Vercel's sales team is deeply technical and spans a range of business functions (developers, operations, marketing, product, IT).",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
+    },
+    {
+      "id": 5,
+      "companyName": "Vercel",
+      "title": "Senior Site Reliability Engineer",
+      "description": "As a Senior Site Reliability Engineer, you will help to scale and improve our infrastructure, availability, and reliability by working closely with our backend engineers and product team to identify problems, create tooling and automation. If you have a solid background in software engineering and are familiar with Cloud Services (e.g. AWS, Google Cloud, or others), Node.js, Terraform, or Kubernetes we'd like to meet you.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "1",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "paulina",
+      "name": "Paulína Rodya",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "VP of Engineering",
+      "talk": {
+        "id": "21"
+      },
+      "image": null
+    },
+    {
+      "id": "2",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "chidiebube",
+      "name": "Chidiebube Paul",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Software Engineer",
+      "talk": {
+        "id": "16"
+      },
+      "image": null
+    },
+    {
+      "id": "3",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "july",
+      "name": "July Desideria",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "3"
+      },
+      "image": null
+    },
+    {
+      "id": "4",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "cerere",
+      "name": "Cerere Eetu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Engineer",
+      "talk": {
+        "id": "24"
+      },
+      "image": null
+    },
+    {
+      "id": "5",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "harshad",
+      "name": "Harshad İrem",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "1"
+      },
+      "image": null
+    },
+    {
+      "id": "6",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "christa",
+      "name": "Christa Collyn",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "CEO",
+      "talk": {
+        "id": "1"
+      },
+      "image": null
+    },
+    {
+      "id": "7",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "prosper",
+      "name": "Prosper Aniruddha",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Developer",
+      "talk": {
+        "id": "24"
+      },
+      "image": null
+    },
+    {
+      "id": "8",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "blagun",
+      "name": "Blagun Dobromil",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/Blagun",
+      "company": "Company",
+      "title": "Designer & Developer",
+      "talk": {
+        "id": "1"
+      },
+      "image": null
+    },
+    {
+      "id": "9",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "cordula",
+      "name": "Cordula Daniel",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Co-Founder",
+      "talk": {
+        "id": "10"
+      },
+      "image": null
+    },
+    {
+      "id": "10",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ricohard",
+      "name": "Ricohard Bohuslav",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Engineer",
+      "talk": {
+        "id": "6"
+      },
+      "image": null
+    },
+    {
+      "id": "11",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "lothaire",
+      "name": "Lothaire Darius",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://twitter.com/vercel",
+      "company": "Company",
+      "title": "Software Developer",
+      "talk": {
+        "id": "18"
+      },
+      "image": null
+    },
+    {
+      "id": "12",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "chariovalda",
+      "name": "Chariovalda Magdalena",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Tech Lead",
+      "talk": {
+        "id": "9"
+      },
+      "image": null
+    },
+    {
+      "id": "13",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "brunhild",
+      "name": "Brunhild Calvin",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "21"
+      },
+      "image": null
+    },
+    {
+      "id": "14",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "manas",
+      "name": "Manas Kerman",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://twitter.com/vercel",
+      "company": "Company",
+      "title": "CFO",
+      "talk": {
+        "id": "5"
+      },
+      "image": null
+    },
+    {
+      "id": "15",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ram",
+      "name": "Ram Hanan",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/Ram Hanan",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "13"
+      },
+      "image": null
+    },
+    {
+      "id": "16",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "lallie",
+      "name": "Lallie Viggo",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Vice President of Cloud",
+      "talk": {
+        "id": "24"
+      },
+      "image": null
+    },
+    {
+      "id": "17",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "jazmin",
+      "name": "Jazmin Sanel",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Developer",
+      "talk": {
+        "id": "15"
+      },
+      "image": null
+    },
+    {
+      "id": "18",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "hadyn",
+      "name": "Hadyn Faye",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "President",
+      "talk": {
+        "id": "17"
+      },
+      "image": null
+    },
+    {
+      "id": "19",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "katell",
+      "name": "Katell Kali",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Creator",
+      "talk": {
+        "id": "7"
+      },
+      "image": null
+    },
+    {
+      "id": "20",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ramses",
+      "name": "Ramses Reinaldo",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Software Engineer",
+      "talk": {
+        "id": "4"
+      },
+      "image": null
+    },
+    {
+      "id": "21",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "peg",
+      "name": "Peg Amaterasu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Accessibility / Front-End",
+      "talk": {
+        "id": "19"
+      },
+      "image": null
+    },
+    {
+      "id": "22",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "terese",
+      "name": "Terese Kreka",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Developer Advocate",
+      "talk": {
+        "id": "14"
+      },
+      "image": null
+    },
+    {
+      "id": "23",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "fabiana",
+      "name": "Fabiana Aramis",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "CEO",
+      "talk": {
+        "id": "2"
+      },
+      "image": null
+    },
+    {
+      "id": "24",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "maksim",
+      "name": "Maksim Vishal",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Engineer",
+      "talk": {
+        "id": "20"
+      },
+      "image": null
+    },
+    {
+      "id": "25",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "purnima",
+      "name": "Süheyla Purnima",
+      "twitter": "https://github.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Founder",
+      "talk": {
+        "id": "23"
+      },
+      "image": null
+    },
+    {
+      "id": "26",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "kleon",
+      "name": "Kleon Renaud",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Engineer",
+      "talk": {
+        "id": "8"
+      },
+      "image": null
+    },
+    {
+      "id": "27",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "catahecassa",
+      "name": "Catahecassa Sarra",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Manager",
+      "talk": {
+        "id": "4"
+      },
+      "image": null
+    },
+    {
+      "id": "28",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "neha",
+      "name": "Neha Beatriu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Founder",
+      "talk": {
+        "id": "13"
+      },
+      "image": null
+    },
+    {
+      "id": "29",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "mariyam",
+      "name": "Mariyam Bricius",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Director of Technology",
+      "talk": {
+        "id": "22"
+      },
+      "image": null
+    },
+    {
+      "id": "30",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "alon",
+      "name": "Alon Neelima",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Head of Development",
+      "talk": {
+        "id": "16"
+      },
+      "image": null
+    },
+    {
+      "id": "31",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "bhaskar",
+      "name": "Bhaskar Folami",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Architect",
+      "talk": {
+        "id": "12"
+      },
+      "image": null
+    },
+    {
+      "id": "32",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ensio",
+      "name": "Ensio Heidi",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Developer",
+      "talk": {
+        "id": "11"
+      },
+      "image": null
+    }
+  ],
+  "stages": [
+    {
+      "id": "1",
+      "name": "Stage A",
+      "slug": "a",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "0",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "2"
+        },
+        {
+          "id": "3"
+        },
+        {
+          "id": "4"
+        },
+        {
+          "id": "8"
+        },
+        {
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Stage E",
+      "slug": "e",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "3",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "17"
+        },
+        {
+          "id": "19"
+        },
+        {
+          "id": "20"
+        },
+        {
+          "id": "21"
+        },
+        {
+          "id": "22"
+        },
+        {
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Stage C",
+      "slug": "c",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "1",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "5"
+        },
+        {
+          "id": "6"
+        },
+        {
+          "id": "7"
+        },
+        {
+          "id": "9"
+        },
+        {
+          "id": "10"
+        },
+        {
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Stage M",
+      "slug": "m",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "2",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "12"
+        },
+        {
+          "id": "13"
+        },
+        {
+          "id": "14"
+        },
+        {
+          "id": "15"
+        },
+        {
+          "id": "16"
+        },
+        {
+          "id": "18"
+        }
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "id": "1",
+      "title": "Keynote",
+      "start": "2020-10-27T08:00:00.000Z",
+      "end": "2020-10-27T08:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "5"
+        },
+        {
+          "id": "6"
+        },
+        {
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Using the Next.js Image Component",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "You Don't Need A Compiler: A Hot Take",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "20"
+        },
+        {
+          "id": "27"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Why Next.js Is Great for You",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "14"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Serverless Databases at the Edge",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Deploying to the Edge with Vercel",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "15"
+        },
+        {
+          "id": "28"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "React Fundamentals",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "2"
+        },
+        {
+          "id": "30"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Building Apps So Fast Your Boss is Confused",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "What are Vercelians?",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "How to Design in Next.js",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Incrementally Adopting Next.js",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Building Your First E-Commerce Site",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Using a CMS with Next.js (And Why)",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "29"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Using i18n Routing with Next 10",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "4"
+        },
+        {
+          "id": "7"
+        },
+        {
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Is Twitter Good Or Bad For You?",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "19"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "How To Use Dynamic Routing",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "32"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "When And When Not To useEffect",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "31"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Will React Survive in 2030?",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "22"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "How To Do Proper Accessibility",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "21"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "From Zero to Production",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "25"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Using MDX for Markdown",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "26"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "React vs. Vue vs. Svelte",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:20:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "10 Reasons You Don't Need a Custom Server",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:20:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Using Preview Deploys with Vercel",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "18"
+        }
+      ]
+    }
+  ]
+}
