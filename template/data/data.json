@@ -2,1709 +2,958 @@
   "sponsors": [
     {
       "id": 1,
-      "slug": "render",
-      "name": "Render",
-      "website": "https://render.com/",
-      "description": "Render is the fastest way to host anything online: from simple static sites to complex applications with dozens of microservices. Using Render, developers and teams can focus on building products instead of managing servers.",
-      "discord": null,
-      "youtubeSlug": "uzkrBBqQHe8",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Try Render",
-      "callToActionLink": "https://render.com/",
-      "links": [
-        {
-          "id": 37,
-          "text": "Overview: Deploy Strapi ",
-          "url": "https://render.com/docs/deploy-strapi "
-        },
-        {
-          "id": 38,
-          "text": "Tutorial: One-click deploy",
-          "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/installation/render.html"
-        },
-        {
-          "id": 39,
-          "text": "Tutorial: Convert existing project",
-          "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/render.html"
-        }
-      ],
-      "logo": "./sponsors-logo-render.jpg",
-      "cardImage": "./sponsors-cardImage-render.jpg"
-    },
-    {
-      "id": 2,
-      "slug": "mux",
-      "name": "MUX",
-      "website": "https://mux.com/",
-      "description": "Mux is a powerful API to video and performance monitoring platform. POST a video; GET back a video URL that plays well on any device. Founded by video experts, including the creators of the biggest open-source video player (Video.js), Mux makes beautiful video possible for every development team",
-      "discord": null,
-      "youtubeSlug": "XQ_dSRKl-MY",
-      "tier": "gold",
-      "tierRank": "2",
+      "slug": "acme",
+      "name": "ACME",
+      "website": "https://vercel.com",
+      "description": "ACME redefines what it means to develop, providing you the cutting-edge technology with half the effort.",
+      "discord": "https://discord.com",
+      "youtubeSlug": "1-NzQ9ObsfM",
+      "tier": "1",
+      "tierRank": "gold",
       "callToAction": "Learn More",
-      "callToActionLink": "https://get.mux.com/3sUSAA7",
+      "callToActionLink": "https://vercel.com",
       "links": [
         {
-          "id": 28,
-          "text": "Learn more about video",
-          "url": "https://mux.com/blog/category/video-education/"
-        },
-        {
-          "id": 29,
-          "text": "Mux Video Docs",
-          "url": "https://docs.mux.com/guides/video"
-        },
-        {
-          "id": 30,
-          "text": "Have questions? Talk to us!",
-          "url": "https://mux.com/sales-contact"
+          "__component": "links.link",
+          "id": 9,
+          "text": "Learn about ACME",
+          "url": "https://vercel.com"
         }
       ],
-      "logo": "./sponsors-logo-mux.jpg",
-      "cardImage": "./sponsors-cardImage-mux.jpg"
-    },
-    {
-      "id": 3,
-      "slug": "accedo-tv",
-      "name": "Accedo",
-      "website": "https://www.accedo.tv/",
-      "description": "A video solutions provider delivering premium video experiences. We offer a combination of products & services to support customers at every stage of the video business journey, from strategy & design, through to delivery & post-launch optimization",
-      "discord": null,
-      "youtubeSlug": "Em-dffMcJxM",
-      "tier": "silver",
-      "tierRank": "3",
-      "callToAction": "Welcome to Accedo",
-      "callToActionLink": "https://www.accedo.tv/",
-      "links": [
-        {
-          "id": 18,
-          "text": "Take a closer look at our customer cases",
-          "url": "https://www.accedo.tv/customers/"
-        },
-        {
-          "id": 19,
-          "text": "What´s new in the OTT Industry",
-          "url": "https://www.accedo.tv/white-papers/ott-whatsnew-trendreport-summer20/"
-        },
-        {
-          "id": 20,
-          "text": "Meet the Team",
-          "url": "https://www.accedo.tv/meet-the-team-ryan-campion-accedo-software-ios-engineer/"
-        }
-      ],
-      "logo": "./sponsors-logo-accedo-tv.jpg",
-      "cardImage": "./sponsors-cardImage-accedo-tv.jpg"
-    },
-    {
-      "id": 4,
-      "slug": "Vercel",
-      "name": "Vercel",
-      "website": "https://vercel.com/",
-      "description": "Vercel is the best place to deploy your frontend app. Our platform enables frontend teams to do their best work. Creators of Next.js.",
-      "discord": null,
-      "youtubeSlug": "Kas0jIob5QQ",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": "Try Vercel",
-      "callToActionLink": "https://vercel.com/new?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf",
-      "links": [
-        {
-          "id": 34,
-          "text": "Learn Next.js",
-          "url": "https://nextjs.org/learn/basics/create-nextjs-app?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
-        },
-        {
-          "id": 35,
-          "text": "Analytics",
-          "url": "https://vercel.com/analytics?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
-        },
-        {
-          "id": 36,
-          "text": "Docs",
-          "url": "https://vercel.com/docs?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
-        }
-      ],
-      "logo": "./sponsors-logo-Vercel.jpg",
-      "cardImage": "./sponsors-cardImage-Vercel.jpg"
-    },
-    {
-      "id": 5,
-      "slug": "hasura",
-      "name": "Hasura",
-      "website": "https://hasura.info/30n1JoF",
-      "description": "Hasura’s open-source engine gives you instant GraphQL & REST APIs that unify your data and power modern applications\n",
-      "discord": null,
-      "youtubeSlug": "F2QZzdQ9igM",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Sign up",
-      "callToActionLink": "https://hasura.info/3sWOsPW",
-      "links": [],
-      "logo": "./sponsors-logo-hasura.jpg",
-      "cardImage": "./sponsors-cardImage-hasura.jpg"
-    },
-    {
-      "id": 6,
-      "slug": "saleor",
-      "name": "Saleor",
-      "website": "https://saleor.io/",
-      "description": "Saleor’s the fastest-growing open-source, headless commerce platform. Our developer-first approach -- open-source with cloud option, GraphQL-first and Next.js ready -- helps brands like Lush deliver revolutionary frontend experiences.",
-      "discord": null,
-      "youtubeSlug": "zd0_S_FPzKg",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": "Learn More",
-      "callToActionLink": "https://saleor.io/",
-      "links": [
-        {
-          "id": 31,
-          "text": "Get a sandbox",
-          "url": "https://mirumee.typeform.com/to/gpqvPOot?utm_source=strapiconf&utm_medium=strapiconf&utm_campaign=get-sandbox"
-        },
-        {
-          "id": 32,
-          "text": "GitHub",
-          "url": "https://github.com/mirumee/saleor"
-        },
-        {
-          "id": 33,
-          "text": "Documentation",
-          "url": "https://docs.saleor.io/docs/"
-        }
-      ],
-      "logo": "./sponsors-logo-saleor.jpg",
-      "cardImage": "./sponsors-cardImage-saleor.jpg"
-    },
-    {
-      "id": 7,
-      "slug": "snipcart",
-      "name": "Snipcart",
-      "website": "https://snipcart.com/",
-      "description": "Snipcart is a developer-first, low-footprint commerce platform. Its frontend is stack-agnostic, its back-office; feature-rich.",
-      "discord": "",
-      "youtubeSlug": "3XyFwc7sUCw",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": "Register interest",
-      "callToActionLink": "https://app.snipcart.com/register?utm_source=StrapiConf",
-      "links": [
-        {
-          "id": 1,
-          "text": "Does Snipcart have a head?",
-          "url": "https://www.youtube.com/watch?v=9WB8OXZnH4k"
-        },
-        {
-          "id": 13,
-          "text": "Building a Jamstack Food Ordering App",
-          "url": "https://strapi.io/blog/building-a-jamstack-food-ordering-app-with-strapi-gridsome-and-snipcart-1-6"
-        },
-        {
-          "id": 14,
-          "text": "Strapi Starter Nuxt.js e-commerce",
-          "url": "https://strapi.io/blog/strapi-starter-nuxt-js-e-commerce"
-        }
-      ],
-      "logo": "./sponsors-logo-snipcart.jpg",
-      "cardImage": "./sponsors-cardImage-snipcart.jpg"
-    },
-    {
-      "id": 8,
-      "slug": "nuxt-js",
-      "name": "NuxtJS",
-      "website": "https://nuxtjs.org/",
-      "description": "French based company composed of remote first-class web developper passionated by the Open Source development and its community. We are focused on solving web developers issues by providing modern web solutions.",
-      "discord": null,
-      "youtubeSlug": "goUq_urdeHg",
-      "tier": "silver",
-      "tierRank": "3",
-      "callToAction": "Contribute",
-      "callToActionLink": "https://opencollective.com/nuxtjs",
-      "links": [
-        {
-          "id": 25,
-          "text": "Get Started",
-          "url": "https://nuxtjs.org/docs/2.x/get-started/installation"
-        },
-        {
-          "id": 26,
-          "text": "GitHub",
-          "url": "https://github.com/nuxt/nuxt.js"
-        },
-        {
-          "id": 27,
-          "text": "Nuxt with Strapi",
-          "url": "https://strapi.nuxtjs.org/"
-        }
-      ],
-      "logo": "./sponsors-logo-nuxt-js.jpg",
-      "cardImage": "./sponsors-cardImage-nuxt-js.jpg"
-    },
-    {
-      "id": 9,
-      "slug": "magic",
-      "name": "Magic",
-      "website": "https://magic.link/",
-      "description": "Magic empowers developers with tools that make passwordless auth simple, with the best user experience and long-term security built-in. With a few lines of code, no bloat, and zero unnecessary config, your app can support a variety of passwordless login methods.",
-      "discord": null,
-      "youtubeSlug": "aeOx8WJCAr4",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Try Magic",
-      "callToActionLink": "https://dashboard.magic.link/signup ",
-      "links": [
-        {
-          "id": 40,
-          "text": "Magic Guides",
-          "url": "https://magic.link/guides"
-        },
-        {
-          "id": 41,
-          "text": "Magic’s Discourse Forum",
-          "url": "https://community.magic.link/ "
-        },
-        {
-          "id": 46,
-          "text": "Magic Strapi Plugin",
-          "url": "https://magic.link/posts/magic-strapi-plugin"
-        }
-      ],
-      "logo": "./sponsors-logo-magic.jpg",
-      "cardImage": "./sponsors-cardImage-magic.jpg"
-    },
-    {
-      "id": 10,
-      "slug": "netlify",
-      "name": "Netlify",
-      "website": "https://www.netlify.com/",
-      "description": "Used by more than 1.5M web developers & businesses, the Netlify platform provides modern build workflows, serverless functions and a global multi-cloud Edge network to deliver the most performant, secure & scalable websites & applications",
-      "discord": null,
-      "youtubeSlug": "XG8nJDWu3a0",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "",
-      "callToActionLink": "",
-      "links": [
-        {
-          "id": 70,
-          "text": "Deliver web projects 10x faster",
-          "url": "https://www.netlify.com/whitepaper/"
-        },
-        {
-          "id": 71,
-          "text": "Set up Strapi as a CMS for Gatsby",
-          "url": "https://www.youtube.com/watch?v=JkBxyurjeI8&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
-        },
-        {
-          "id": 72,
-          "text": "Build Jamstack Apps with Custom APIs",
-          "url": "https://www.youtube.com/watch?v=8Mkh8S66SZY&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
-        }
-      ],
-      "logo": "./sponsors-logo-netlify.jpg",
-      "cardImage": "./sponsors-cardImage-netlify.jpg"
-    },
-    {
-      "id": 11,
-      "slug": "platform-sh",
-      "name": "Platform.sh",
-      "website": "https://platform.sh/",
-      "description": "Platform.sh is the end-to-end PaaS that enables you to build, run, and scale websites and apps in the languages and frameworks your teams need.",
-      "discord": null,
-      "youtubeSlug": "Ub-FndTfagw",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": "Get Platform.sh swag!",
-      "callToActionLink": "https://lp.platform.sh/Strapi-Swag.html",
-      "links": [
-        {
-          "id": 15,
-          "text": "Launch Strapi with one click",
-          "url": "https://platform.sh/marketplace/strapi/"
-        },
-        {
-          "id": 16,
-          "text": "How to deploy Gatsby with Strapi on Platform.sh",
-          "url": "https://docs.platform.sh/guides/gatsby/headless/strapi.html"
-        },
-        {
-          "id": 17,
-          "text": "Going headless: pulling Strapi and WordPress content during your Gatsby builds",
-          "url": "https://platform.sh/blog/2020/headless-strapi-and-wordpress-content-with-gatsby-builds/"
-        }
-      ],
-      "logo": "./sponsors-logo-platform-sh.jpg",
-      "cardImage": "./sponsors-cardImage-platform-sh.jpg"
-    },
-    {
-      "id": 12,
-      "slug": "commerce-layer",
-      "name": "Commerce Layer ",
-      "website": "https://commercelayer.io ",
-      "description": "A headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease. Perfect fit for the best-of-breed CMSs, static site generators, and any other tools you already master and love.",
-      "discord": null,
-      "youtubeSlug": "A5TGGfWetEw ",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": " Request Demo",
-      "callToActionLink": "https://commercelayer.io/demo/",
-      "links": [
-        {
-          "id": 55,
-          "text": "Homepage",
-          "url": "https://commercelayer.io"
-        },
-        {
-          "id": 56,
-          "text": "Developer Resources",
-          "url": "https://commercelayer.io/developers/"
-        },
-        {
-          "id": 57,
-          "text": "Platform Overview",
-          "url": "https://commercelayer.io/platform/"
-        }
-      ],
-      "logo": "./sponsors-logo-commerce-layer.jpg",
-      "cardImage": "./sponsors-cardImage-commerce-layer.jpg"
-    },
-    {
-      "id": 13,
-      "slug": "meilisearch",
-      "name": "MeiliSearch",
-      "website": "https://meilisearch.com",
-      "description": "An open-source search engine that offers a blazingly fast search-as-you-type experience for your website or application. It is designed to deliver relevant results right out of the box, while still offering multiple options for customization & fine-tuning.",
-      "discord": null,
-      "youtubeSlug": "zd0_S_FPzKg",
-      "tier": "diamond",
-      "tierRank": "1",
-      "callToAction": "Try Strapi Plugin",
-      "callToActionLink": "https://github.com/meilisearch/strapi-plugin-meilisearch",
-      "links": [
-        {
-          "id": 21,
-          "text": "MeiliSearch Search Engine",
-          "url": "https://github.com/meilisearch/MeiliSearch"
-        },
-        {
-          "id": 22,
-          "text": "MeiliSearch Documentation",
-          "url": "https://docs.meilisearch.com/"
-        },
-        {
-          "id": 23,
-          "text": "MeiliSearch Strapi Plugin",
-          "url": "https://github.com/meilisearch/strapi-plugin-meilisearch"
-        }
-      ],
-      "logo": "./sponsors-logo-meilisearch.jpg",
-      "cardImage": "./sponsors-cardImage-meilisearch.jpg"
-    },
-    {
-      "id": 14,
-      "slug": "gatsby",
-      "name": "Gatsby",
-      "website": "https://www.gatsbyjs.com/",
-      "description": "Gatsby, the modern frontend framework for React, can integrate content from Strapi with content from a broad range of sources such as traditional CMSs and commerce platforms using a rich ecosystem of 2500+ plugins to great lightning-fast, secure, beautiful web experiences for your visitors. Gatsby Cloud is the optimized end-to-end SaaS platform for developing, building, deploying, and managing your Gatsby web experiences, now with a high performance global edge network for site hosting.\n",
-      "discord": null,
-      "youtubeSlug": "WFOxZAmB_1Y",
-      "tier": "silver",
-      "tierRank": "3",
-      "callToAction": "Register Interest",
-      "callToActionLink": "https://www.gatsbyjs.com/strapiconf2021-request-a-meeting/",
-      "links": [
-        {
-          "id": 43,
-          "text": "Develop with Gatsby (Docs) ",
-          "url": "https://www.gatsbyjs.com/docs/ "
-        },
-        {
-          "id": 44,
-          "text": "Gatsby Plugin Library ",
-          "url": "https://www.gatsbyjs.com/plugins "
-        },
-        {
-          "id": 45,
-          "text": "Try Gatsby Cloud (free)",
-          "url": "https://www.gatsbyjs.com/products/cloud/ "
-        }
-      ],
-      "logo": "./sponsors-logo-gatsby.jpg",
-      "cardImage": "./sponsors-cardImage-gatsby.jpg"
-    },
-    {
-      "id": 15,
-      "slug": "Algolia",
-      "name": "Algolia",
-      "website": "www.algolia.com",
-      "description": "Algolia is a hosted search API that gives developers a complete toolkit for building search into their products. Our SaaS solution takes the pain out of building and maintaining search. We maintain the infrastructure and API clients for all important programming languages and platforms, and focus on the developer experience with extensive documentation, tooling and support. ",
-      "discord": null,
-      "youtubeSlug": "q_9mnYSZu0k",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Start Free",
-      "callToActionLink": "https://www.algolia.com/users/sign_up",
-      "links": [
-        {
-          "id": 58,
-          "text": "Get Inspired",
-          "url": "https://www.algolia.com/search-inspiration-library/"
-        },
-        {
-          "id": 59,
-          "text": "Site Search",
-          "url": "https://www.algolia.com/solutions/site-search/"
-        },
-        {
-          "id": 60,
-          "text": "Headless Commerce",
-          "url": "https://www.algolia.com/solutions/headless-commerce/"
-        }
-      ],
-      "logo": "./sponsors-logo-Algolia.jpg",
-      "cardImage": "./sponsors-cardImage-Algolia.jpg"
-    },
-    {
-      "id": 16,
-      "slug": "Sentry",
-      "name": "Sentry",
-      "website": "https://sentry.io/",
-      "description": "Sentry’s mission is to eliminate the havoc and potential financial loss associated with defective software by making best-in-class application monitoring available to all software teams. Sentry helps developers discover, triage, and prioritize code errors and performance bottlenecks in real time in order to deliver the best possible end-user experiences complementing your systems monitoring tools. ",
-      "discord": null,
-      "youtubeSlug": "cdlvRTCbHB4",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Get Started",
-      "callToActionLink": "https://sentry.io/signup/",
-      "links": [
-        {
-          "id": 64,
-          "text": "JAMstack Monitoring ",
-          "url": "https://www.youtube.com/watch?v=_xBXib0BN40"
-        },
-        {
-          "id": 65,
-          "text": "JavaScript Monitoring",
-          "url": "https://sentry.io/for/javascript/"
-        },
-        {
-          "id": 66,
-          "text": "Documentation",
-          "url": "https://docs.sentry.io/"
-        }
-      ],
-      "logo": "./sponsors-logo-Sentry.jpg",
-      "cardImage": "./sponsors-cardImage-Sentry.jpg"
-    },
-    {
-      "id": 17,
-      "slug": "motiv-solutions",
-      "name": "Motiv Solutions",
-      "website": "https://www.motivsolutions.com/",
-      "description": "Motiv is a consulting solutions company that specializes in optimizing business practices and future-proofing Strapi implementations to enable organizations to accelerate their digital transformation as well as speed-to-market. ",
-      "discord": null,
-      "youtubeSlug": "zd0_S_FPzKg",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Contact",
-      "callToActionLink": "https://www.motivsolutions.com/contact",
-      "links": [
-        {
-          "id": 61,
-          "text": "Services",
-          "url": "https://www.motivsolutions.com/services"
-        },
-        {
-          "id": 62,
-          "text": "Approach",
-          "url": "https://www.motivsolutions.com/approach"
-        },
-        {
-          "id": 63,
-          "text": "Insights",
-          "url": "https://www.motivsolutions.com/insights"
-        }
-      ],
-      "logo": "./sponsors-logo-motiv-solutions.jpg",
-      "cardImage": "./sponsors-cardImage-motiv-solutions.jpg"
-    },
-    {
-      "id": 18,
-      "slug": "ionic",
-      "name": "Ionic",
-      "website": "https://ionic.io",
-      "description": "Ionic is a mobile app development platform for web developers, powering roughly 10% of the world’s apps. Our open source and premium tools and services help to build, secure, and deliver enterprise-grade mobile apps in less time. Ionic makes it easy to build award-winning native mobile apps and PWAs with web technologies.\n",
-      "discord": null,
-      "youtubeSlug": "OcD7GBbs2HY",
-      "tier": "silver",
-      "tierRank": "3",
-      "callToAction": "Discover Ionic Today",
-      "callToActionLink": "https://ionic.io",
-      "links": [
-        {
-          "id": 47,
-          "text": "Cordova Vs Capacitor",
-          "url": "https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development"
-        },
-        {
-          "id": 48,
-          "text": "Building PWAs with Ionic",
-          "url": "https://ionic.io/resources/webinars/how-to-build-pwa"
-        },
-        {
-          "id": 49,
-          "text": "Ionic React Vs React Native",
-          "url": "https://ionic.io/resources/articles/ionic-react-vs-react-native"
-        }
-      ],
-      "logo": "./sponsors-logo-ionic.jpg",
-      "cardImage": "./sponsors-cardImage-ionic.jpg"
-    },
-    {
-      "id": 19,
-      "slug": "cloudinary",
-      "name": "Cloudinary",
-      "website": " https://cloudinary.rocks/55p",
-      "description": "Cloudinary provides developers with powerful media API to upload, store, manage, optimize, transform and deliver images and videos. Developers utilize and easily integrate Cloudinary’s media experience platform via SDKs, widgets, add-ons into web and mobile apps built using all popular tech stacks. Cloudinary enables developers to deliver dynamic, high-performance, personalized media experiences on any device.\n",
-      "discord": null,
-      "youtubeSlug": "3H13LL5DuCY",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Join the raffle",
-      "callToActionLink": "https://res.cloudinary.com/balazs/image/upload/v1617875998/strapiconf_raffle.pdf",
-      "links": [],
-      "logo": "./sponsors-logo-cloudinary.jpg",
-      "cardImage": "./sponsors-cardImage-cloudinary.jpg"
-    },
-    {
-      "id": 20,
-      "slug": "unlikely-technology",
-      "name": "Unlikely",
-      "website": "https://unlikely.technology/",
-      "description": "Unlikely is a technology studio creating bespoke digital experiences for modern brands. We combine cutting-edge technologies with great design to deliver apps that are fast, functional, and visually striking.",
-      "discord": null,
-      "youtubeSlug": "zd0_S_FPzKg",
-      "tier": "gold",
-      "tierRank": "2",
-      "callToAction": "Visit Website",
-      "callToActionLink": "https://unlikely.technology",
-      "links": [
-        {
-          "id": 69,
-          "text": "Get in touch",
-          "url": "mailto:contact@unlikely.technology"
-        }
-      ],
-      "logo": "./sponsors-logo-unlikely-technology.jpg",
-      "cardImage": "./sponsors-cardImage-unlikely-technology.jpg"
+      "logo": null,
+      "cardImage": null
     }
   ],
   "jobs": [
     {
       "id": 1,
-      "companyName": "Strapi",
-      "title": "Full stack developer (Product Growth team)",
-      "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
-      "link": "https://www.welcometothejungle.com/fr/companies/strapi/jobs/full-stack-developer-growth_paris",
-      "discord": "",
+      "companyName": "Vercel",
+      "title": "Developer Relations Lead",
+      "description": "Vercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
       "rank": "1"
     },
     {
       "id": 2,
-      "companyName": "Accedo",
-      "title": "Software Engineer",
-      "description": "Accedo is a video solutions provider delivering premium video experiences. We offer a combination of products and services to support customers at every stage of the video business journey, from strategy and design, through to delivery and post-launch optimization. ",
-      "link": "https://www.accedo.tv/career/#comeetanchor",
-      "discord": null,
-      "rank": null
+      "companyName": "Vercel",
+      "title": "Security Lead",
+      "description": "The Security Lead at Vercel will work closely with engineering and product teams to ensure that security is top-priority in all of our work. The role will also require designing and implementing technical controls to enforce strong security guarantees by default, as well as supporting audits for certification and compliance programs, such as SOC 2, GDPR, and ISO 27001.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
     },
     {
       "id": 3,
-      "companyName": "Strapi",
-      "title": "Senior Backend Engineer",
-      "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
-      "link": "https://www.welcometothejungle.com/fr/companies/strapi/jobs/senior-backend-engineer_paris",
-      "discord": "",
+      "companyName": "Vercel",
+      "title": "Field Engineer / Solutions Architect",
+      "description": "Vercel Field Engineering is an integral part of our business, showcasing Vercel's products, working with our users and customers, understanding their business goals and technical requirements, and distilling complex problems into understandable, achievable solutions.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
       "rank": "1"
     },
     {
       "id": 4,
       "companyName": "Vercel",
-      "title": "Developer Relations Lead",
-      "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
-      "link": "https://vercel.com/careers?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf ",
-      "discord": null,
-      "rank": "2"
+      "title": "Account Executive / Sr. Account Executive",
+      "description": "Vercel's sales team is full of bright, hardworking Account Executives who are helping us create a new category. Vercel's sales team is deeply technical and spans a range of business functions (developers, operations, marketing, product, IT).",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
     },
     {
       "id": 5,
       "companyName": "Vercel",
-      "title": "Field Engineer / Solution Architect ",
-      "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
-      "link": "https://vercel.com/careers?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf ",
-      "discord": null,
-      "rank": "2"
-    },
-    {
-      "id": 6,
-      "companyName": "Magic",
-      "title": "Senior Software Engineer (Frontend)",
-      "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
-      "link": "https://angel.co/company/magiclabs/jobs/918694-senior-software-engineer-frontend",
-      "discord": null,
-      "rank": "4"
-    },
-    {
-      "id": 7,
-      "companyName": "Magic",
-      "title": "Senior Software Engineer (Backend)",
-      "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
-      "link": "https://angel.co/company/magiclabs/jobs/768804-senior-software-engineer-platform-backend",
-      "discord": null,
-      "rank": "4"
-    },
-    {
-      "id": 8,
-      "companyName": "MeiliSearch",
-      "title": "Technical Writer",
-      "description": "MeiliSearch provides an extensive toolset for customization. Unlike with other search engines, these customization options are just that: optional. It works out-of-the-box with a preset that easily answers the needs of most applications. Communication is done with a RESTful API because most developers are already familiar with its norms.",
-      "link": "https://www.welcometothejungle.com/en/companies/meilisearch/jobs/technical-content-writer_paris",
-      "discord": null,
-      "rank": "4"
+      "title": "Senior Site Reliability Engineer",
+      "description": "As a Senior Site Reliability Engineer, you will help to scale and improve our infrastructure, availability, and reliability by working closely with our backend engineers and product team to identify problems, create tooling and automation. If you have a solid background in software engineering and are familiar with Cloud Services (e.g. AWS, Google Cloud, or others), Node.js, Terraform, or Kubernetes we'd like to meet you.",
+      "link": "https://vercel.com/careers",
+      "discord": "https://discord.gg/yYnDWZMHhq",
+      "rank": "1"
     }
   ],
   "speakers": [
     {
-      "id": 1,
-      "bio": "Robert Douglass has been deeply involved with open source software since 2004. He was the author of the first book published about Drupal, \"Building Online Communities in Drupal, Wordpress, PhpBB\" (Apress, 2005), is a core code contributor to 4 different Drupal versions, and the original author of the Memcache and Solr modules for Drupal. Robert has also served as a member of the Drupal Association, a founding member of the German Drupal Association, and a member of the Drupal Security team. As a cloud hosting specialist he designed the server architecture for 100s of high profile sites, and is currently the VP Channel Sales for Platform.sh. Beyond technology, Robert works as a record producer, photographer, and is frequently a speaker advocating for free software and free culture ideals in the music industry.",
-      "slug": "robert-douglass",
-      "name": "Robert Douglass",
-      "twitter": "https://twitter.com/robertDouglass",
-      "github": "https://github.com/robertDouglass ",
-      "company": "Platform.sh",
-      "title": "Chief DevRel Officer",
+      "id": "1",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "paulina",
+      "name": "Paulína Rodya",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "VP of Engineering",
       "talk": {
-        "id": 29
+        "id": "21"
       },
-      "image": "./speakers-image-robert-douglass.jpg"
+      "image": null
     },
     {
-      "id": 2,
-      "bio": "Rohit is a Customer Solutions Engineer at Sentry. Prior to joining Sentry, Rohit held DevOps and Release Engineering roles at IoT, Retail & E-commerce, and Telecommunications companies.",
-      "slug": "rohit-kataria",
-      "name": "Rohit Kataria",
-      "twitter": null,
-      "github": null,
-      "company": "Sentry",
-      "title": "Customer Solutions Engineer",
+      "id": "2",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "chidiebube",
+      "name": "Chidiebube Paul",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Software Engineer",
       "talk": {
-        "id": 30
+        "id": "16"
       },
-      "image": "./speakers-image-rohit-kataria.jpg"
+      "image": null
     },
     {
-      "id": 3,
-      "bio": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
-      "slug": "bolaji-ayodeji",
-      "name": "Bolaji Ayodeji",
-      "twitter": "https://twitter.com/iambolajiayo",
-      "github": "https://github.com/BolajiAyodeji",
-      "company": "Commerce Layer",
-      "title": "Developer Advocate",
-      "talk": {
-        "id": 6
-      },
-      "image": "./speakers-image-bolaji-ayodeji.jpg"
-    },
-    {
-      "id": 4,
-      "bio": "Roy Derks is a serial startup CTO, developer, author and conference speaker from Amsterdam. He has founded multiple e-commerce and marketplace startups in the past, and is now working with Saleor as an ambassador. \n",
-      "slug": "roy-derks",
-      "name": "Roy Derks",
-      "twitter": "https://twitter.com/gethackteam",
-      "github": null,
-      "company": "Saleor",
-      "title": "Ambassador",
-      "talk": {
-        "id": 1
-      },
-      "image": "./speakers-image-roy-derks.jpg"
-    },
-    {
-      "id": 5,
-      "bio": "Mom since 2017 and Strapi user's since 2018. I'm fully loving on R&D, Infra & Web development. I'm currently CTO of RiderClub.fr (1st sharing motorcycle service in France). ",
-      "slug": "Vanessa-Pasque",
-      "name": "Vanessa\tPasqué",
-      "twitter": null,
-      "github": "https://github.com/Lith",
-      "company": "Magenta Motocycle (Rider Club)",
-      "title": "CTO",
-      "talk": {
-        "id": 15
-      },
-      "image": "./speakers-image-Vanessa-Pasque.jpg"
-    },
-    {
-      "id": 6,
-      "bio": "Scott Agirs' is an entrepreneur-turned software engineer. Having built and sold his first website at the early age of 14, software development has always been a part of his life. Last few years with full-steam and Strapi in his tool belt his helping early-stage JavaScript-built startups to get off the ground.",
-      "slug": "scott-agirs-neminskis",
-      "name": "Scott Agirs Neminskis",
-      "twitter": "https://twitter.com/scottagirs",
-      "github": "https://www.github.com/scottagirs",
-      "company": "iJS.to",
-      "title": "Full Stack Developer",
-      "talk": {
-        "id": 25
-      },
-      "image": "./speakers-image-scott-agirs-neminskis.jpg"
-    },
-    {
-      "id": 7,
-      "bio": "Chad Carlson is a DevRel Engineer at Platform.sh, and during that time he has worked with Strapi quite a bit during his time documenting Node.js support and decoupled websites. He's interested in when decoupling is the right choice for teams (and when), and if he's not teaching himself a new programming language he can usually be found writing or cooking something or other. ",
-      "slug": "chad-carlson",
-      "name": "Chad Carlson",
-      "twitter": "https://twitter.com/chadwcarlson",
-      "github": "https://github.com/chadwcarlson",
-      "company": "Platform.sh",
-      "title": "DevRel Engineer",
-      "talk": {
-        "id": 28
-      },
-      "image": "./speakers-image-chad-carlson.jpg"
-    },
-    {
-      "id": 8,
-      "bio": "Over 14 yers in web development, starting from table layout and IE6 till today. Working mostly as a frontend developer in e-commerce industry and running side project on WordPress. Last few years change development environment and focus mainly on JAM, MERN, ... stack. Also interested in IOT technology by doing small house automation projects as a hobby.",
-      "slug": "stanislav-mihic",
-      "name": "Stanislav\tMihić",
-      "twitter": "https://twitter.com/doxikus",
-      "github": "https://github.com/doxikus",
-      "company": "Minus5",
+      "id": "3",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "july",
+      "name": "July Desideria",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
       "title": "Senior Software Engineer",
       "talk": {
-        "id": 2
+        "id": "3"
       },
-      "image": "./speakers-image-stanislav-mihic.jpg"
+      "image": null
     },
     {
-      "id": 9,
-      "bio": "Engineering Manager & Principal Engineer @ VirtusLab who is building and leading teams for projects of various scale. A Full Stack Developer from origin and passion, for whom the concept of 'business day' does not apply, because passion is can't be limited. Founder & organizer of Krakow TypeScript User Group (KTUG) meetup, meet.js & conferences speaker.",
-      "slug": "Mateusz-Ziarko",
-      "name": "Mateusz Ziarko",
-      "twitter": "https://twitter.com/cyp3r",
-      "github": "https://github.com/cyp3rius",
-      "company": "VirtusLab ",
-      "title": "Engineering Manager & Principal Engineer",
-      "talk": {
-        "id": 20
-      },
-      "image": "./speakers-image-Mateusz-Ziarko.jpg"
-    },
-    {
-      "id": 10,
-      "bio": "Alex is the engineering lead at Strapi. He leads the development of technology for the company. He is also passionate about pastry making and likes helping people build innovative products.",
-      "slug": "alexandre-bodin",
-      "name": "Alexandre Bodin",
-      "twitter": "https://twitter.com/_alexandrebodin",
-      "github": "https://github.com/alexandrebodin",
-      "company": "Strapi",
-      "title": "Engineering Lead",
-      "talk": {
-        "id": 23
-      },
-      "image": "./speakers-image-alexandre-bodin.jpg"
-    },
-    {
-      "id": 11,
-      "bio": "He’s a product builder, CPO & co-founder at Strapi. He has been a huge fan of CMSs since he’s 15 years old when he developed his first CMS. He likes playing basketball and board games, especially Catan.",
-      "slug": "aurelien-georget",
-      "name": "Aurélien Georget",
-      "twitter": "https://twitter.com/aureliengeorget",
-      "github": "https://github.com/Aurelsicoko",
-      "company": "Strapi",
-      "title": "Co-founder, CPO",
-      "talk": {
-        "id": 23
-      },
-      "image": "./speakers-image-aurelien-georget.jpg"
-    },
-    {
-      "id": 12,
-      "bio": "Developer Advocate for Magic.link by day, Multi-Passionate Gal who loves to film, build, write, draw, sew, and a bunch of other fun artsy things by night. \n\n",
-      "slug": "Maricris-Bonzo",
-      "name": "Maricris Bonzo",
-      "twitter": "https://twitter.com/seemcat ",
-      "github": "https://github.com/seemcat",
-      "company": "Magic",
-      "title": "Developer Advocate",
-      "talk": {
-        "id": 13
-      },
-      "image": "./speakers-image-Maricris-Bonzo.jpg"
-    },
-    {
-      "id": 13,
-      "bio": "A female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. She is also a full stack JavaScript developer (MEVN) stack and loves to share knowledge about her transition from marine engineering to software development to encourage people who love software development and don't know where to begin. She also contribute to FOSS in her free time.",
-      "slug": "ukpai-ugochi",
-      "name": "Ukpai Ugochi",
-      "twitter": "https://twitter.com/hannydevelop",
-      "github": null,
-      "company": "Logrocket, Hitsubscribe",
-      "title": "Freelance technical writer",
-      "talk": {
-        "id": 19
-      },
-      "image": "./speakers-image-ukpai-ugochi.jpg"
-    },
-    {
-      "id": 14,
-      "bio": "Kati Frantz is a software engineer and Auth0 Ambassador passionate about mentoring and training other developers. He’s published over 150 hours of training resources on Udemy with over 65 000 students.  He’s worked with multiple teams and startups across the world to build powerful, modern, performant and scalable web applications. He is also a speaker and author of the Deploying Nodejs book. He is currently the core maintainer of the open-source headless CMS and API builder Tenseijs.",
-      "slug": "Kati-Frantz",
-      "name": "Kati\tFrantz",
-      "twitter": "https://twitter.com/bahdcoder",
-      "github": null,
-      "company": "Auth0 Ambassador",
-      "title": "",
-      "talk": {
-        "id": 18
-      },
-      "image": "./speakers-image-Kati-Frantz.jpg"
-    },
-    {
-      "id": 15,
-      "bio": "Pierre is the co-founder and CEO of Strapi. Frustrated by the limitations of traditional CMS while working as a freelance developer, he co-founded, with Aurélien Georget and Jim Laurie, Strapi, the leading open-source Headless CMS. He is a lover of Node.js and APIs, and when not coding, it’s likely he will be windsurfing.",
-      "slug": "pierre-burgy",
-      "name": "Pierre Burgy",
-      "twitter": "https://twitter.com/pierre_burgy",
-      "github": "https://github.com/pierreburgy",
-      "company": "Strapi",
-      "title": "CEO",
-      "talk": {
-        "id": 23
-      },
-      "image": "./speakers-image-pierre-burgy.jpg"
-    },
-    {
-      "id": 16,
-      "bio": "Heiko Voigt is working as a full-stack javascript web developer for SIT GmbH in Germany and Harbour Light Software Development Ltd. in Canada. \nAs a core member of the Cross Canada Collaboration User Group (C3UG) and an HCL Ambassador 2021, he is working in the field of HCL digital solutions software for more than 25 years. He is also a passionate home brewer and a proud father of twin girls.",
-      "slug": "heiko-voigt",
-      "name": "Heiko Voigt",
-      "twitter": "https://twitter.com/HeikoVoigt3",
-      "github": null,
-      "company": "SIT GmbH",
-      "title": "CEO",
-      "talk": {
-        "id": 14
-      },
-      "image": "./speakers-image-heiko-voigt.jpg"
-    },
-    {
-      "id": 17,
-      "bio": "Alexander Lichter is a Nuxt.js maintainer and web development consultant in his twenties. When not working on open-source projects, he gives talks and workshops, writes blog posts or helps other companies with regards to web development, mainly focussing on Vue.js and Nuxt.js.",
-      "slug": "alexander-lichter",
-      "name": "Alexander Lichter",
-      "twitter": "https://twitter.com/TheAlexLichter",
-      "github": "https://github.com/manniL",
-      "company": "Developmint",
-      "title": "Web Dev Consultant",
-      "talk": {
-        "id": 21
-      },
-      "image": "./speakers-image-alexander-lichter.jpg"
-    },
-    {
-      "id": 18,
-      "bio": "I'm a software engineer from Brussels, Belgium. I work on dev tools that help developers use MeiliSearch. I love back-end JavaScript and all types of databases.",
-      "slug": "Charlotte-Vermandel",
-      "name": "Charlotte Vermandel",
-      "twitter": null,
-      "github": "https://github.com/bidoubiwa ",
-      "company": "MeiliSearch",
+      "id": "4",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "cerere",
+      "name": "Cerere Eetu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
       "title": "Software Engineer",
       "talk": {
-        "id": 12
+        "id": "24"
       },
-      "image": "./speakers-image-Charlotte-Vermandel.jpg"
+      "image": null
     },
     {
-      "id": 19,
-      "bio": "Liz is a community-taught Software Engineer focused on JavaScript, and Head of Developer Relations at NodeSource. She organizes different community events such as JSConf Colombia, Pioneras Developers, Startup Weekend and has been a speaker at EmpireJS, MedellinJS, PionerasDev, and Node+JS Interactive.\n\nShe loves sharing knowledge, promoting JavaScript and Node.js ecosystem and participating in key tech events and conferences to enhance her knowledge and network.",
-      "slug": "liz-parody",
-      "name": "Liz Parody",
-      "twitter": "https://twitter.com/lizparody23",
-      "github": null,
-      "company": "NodeSource",
-      "title": "Head of Developers Relations",
+      "id": "5",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "harshad",
+      "name": "Harshad İrem",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Engineer",
       "talk": {
-        "id": 27
+        "id": "1"
       },
-      "image": "./speakers-image-liz-parody.jpg"
+      "image": null
     },
     {
-      "id": 20,
-      "bio": "Sam Bhagwat is Gatsby's Co-founder and Chief Strategy Officer. He's the author of Journey to the Content Mesh, a series outlining the modernization and modularization of the website technology stack.\n\n",
-      "slug": "sam-bhagwat",
-      "name": "Sam Bhagwat",
-      "twitter": "https://twitter.com/calcsam",
-      "github": "https://github.com/calcsam",
-      "company": "Gatsby",
-      "title": "Cofounder and CSO",
-      "talk": {
-        "id": 11
-      },
-      "image": "./speakers-image-sam-bhagwat.jpg"
-    },
-    {
-      "id": 21,
-      "bio": "Chris Sev is the founder of scotch.io and a Senior Developer Advocate at DigitalOcean. He puts his focus on building simple and clean SaaS experiences for customers.",
-      "slug": "chris-sev",
-      "name": "Chris Sev",
-      "twitter": "https://twitter.com/chris__sev",
-      "github": null,
-      "company": "DigitalOcean",
-      "title": "Sr Developer Advocate",
-      "talk": {
-        "id": 7
-      },
-      "image": "./speakers-image-chris-sev.jpg"
-    },
-    {
-      "id": 22,
-      "bio": "Praveen is a Developer Advocate at Hasura. He is a tech enthusiast, passionate about improving developer experience and advocates for usage of GraphQL, React and Serverless.",
-      "slug": "praveen-d",
-      "name": "Praveen D",
-      "twitter": "https://twitter.com/praveenweb",
-      "github": null,
-      "company": "Hasura",
-      "title": "Developer Advocate",
-      "talk": {
-        "id": 3
-      },
-      "image": "./speakers-image-praveen-d.jpg"
-    },
-    {
-      "id": 23,
-      "bio": "Melissa is a seasoned front-end developer with more than a decade of experience. She loves learning and working with new technologies. Melissa appreciates the ease and convenience that a headless CMS provides by allowing content to come from one source. \n\nWhen Melissa isn’t singing her praises to new tech, she enjoys literal singing and a good cup of coffee! ",
-      "slug": "melissa-garr",
-      "name": "Melissa Garr",
-      "twitter": null,
-      "github": null,
-      "company": "Motiv Solutions",
-      "title": "Frontend developer",
-      "talk": {
-        "id": 26
-      },
-      "image": "./speakers-image-melissa-garr.jpg"
-    },
-    {
-      "id": 24,
-      "bio": "Rudy Weber discovered the world of programming at 14 years old and decided from then on to spend the majority of his teenage years in his bedroom in front of the computer. As a consultant, Rudy has worked on a wide spectrum of projects, from international corporations' public-facing applications to the development of a programming language. Convinced that knowledge is only worth acquiring if shared, he started teaching about his learnings in the industry to whoever was willing to listen. Accordingly, Rudy is now a Developer Relations Engineer at Platform.sh, specializing in JavaScript.",
-      "slug": "rudy-weber",
-      "name": "Rudy Weber",
-      "twitter": "https://twitter.com/rudy_weber",
-      "github": "https://github.com/RudyWeber",
-      "company": "Platform.sh",
-      "title": "DevRel Engineer",
-      "talk": {
-        "id": 29
-      },
-      "image": "./speakers-image-rudy-weber.jpg"
-    },
-    {
-      "id": 25,
-      "bio": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
-      "slug": "Vladimir-de-Turckheim",
-      "name": "Vladimir\tde Turckheim",
-      "twitter": "https://twitter.com/poledesfetes",
-      "github": "https://github.com/vdeturckheim",
-      "company": "Sqreen",
-      "title": "Customer Engineering Team Lead",
-      "talk": {
-        "id": 17
-      },
-      "image": "./speakers-image-Vladimir-de-Turckheim.jpg"
-    },
-    {
-      "id": 26,
-      "bio": "François builds, learns, and laughs in beautiful Québec City. He's CEO at Snipcart, an e-commerce solution for developers. He's also a board member and mentor at Apollo13, a startup program he helped launch. A marketer by trade, he was responsible for building Snipcart's initial growth machine, which runs on good content, community, and SEO. His writing has been featured on Indie Hackers, The Startup, freeCodeCamp, Baremetrics, and more publications.\nSince joining Snipcart, he gave startup and e-commerce presentations in 14+ events all over the world (Canada, USA, France, Ireland). He worked remotely from half a dozen different countries in his first years on the market.",
-      "slug": "francois-lanthier-nadeau",
-      "name": "Francois Lanthier Nadeau",
-      "twitter": "https://twitter.com/the_fln",
-      "github": "https://github.com/snipcart",
-      "company": "Snipcart",
+      "id": "6",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "christa",
+      "name": "Christa Collyn",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
       "title": "CEO",
       "talk": {
-        "id": 22
+        "id": "1"
       },
-      "image": "./speakers-image-francois-lanthier-nadeau.jpg"
+      "image": null
     },
     {
-      "id": 27,
-      "bio": "A front-end developer with vast experience handling different projects from corporate websites to full e-commerce platforms. She's also been working on Strapi's website for almost a year, making the CMS (coupled with React) one of her everyday tools, and she's loving it! ",
-      "slug": "marion-ott",
-      "name": "Marion Ott",
-      "twitter": null,
-      "github": "https://github.com/marionott",
-      "company": "Unlikely Technology",
-      "title": "Front-end developer",
+      "id": "7",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "prosper",
+      "name": "Prosper Aniruddha",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Developer",
       "talk": {
-        "id": 9
+        "id": "24"
       },
-      "image": "./speakers-image-marion-ott.jpg"
+      "image": null
     },
     {
-      "id": 28,
-      "bio": "IT Project Manager with over 5 years of experience in Project Management and Change Management in the Information Technology and Hotel industry",
-      "slug": "arlene-zavala",
-      "name": "Arlene Zavala",
-      "twitter": "",
-      "github": null,
-      "company": "San Services (Sandals Resort)",
-      "title": "IT Project Manager",
+      "id": "8",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "blagun",
+      "name": "Blagun Dobromil",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/Blagun",
+      "company": "Company",
+      "title": "Designer & Developer",
       "talk": {
-        "id": 24
+        "id": "1"
       },
-      "image": "./speakers-image-arlene-zavala.jpg"
+      "image": null
     },
     {
-      "id": 29,
-      "bio": "Before starting Vercel (formerly ZEIT) in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. He's the creator of several popular Node.js open source libraries like Socket.io, Mongoose and Slackin. Prior to Node.js, he was a core developer of the MooTools frontend toolkit. He is determined to make the web better.",
-      "slug": "Guillermo-Rauch",
-      "name": "Guillermo Rauch",
-      "twitter": "https://twitter.com/rauchg",
-      "github": "https://github.com/rauchg",
-      "company": "Vercel",
-      "title": "CEO",
+      "id": "9",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "cordula",
+      "name": "Cordula Daniel",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Co-Founder",
       "talk": {
-        "id": 23
+        "id": "10"
       },
-      "image": "./speakers-image-Guillermo-Rauch.jpg"
+      "image": null
     },
     {
-      "id": 30,
-      "bio": "Jim is the Chief User Success Officer at Strapi. By being an expert of the project and close to the community and their usage/needs, he is in charge of making sure we provide all resources that will set Strapi users up for success.",
-      "slug": "jim-laurie",
-      "name": "Jim Laurie",
-      "twitter": "https://twitter.com/laurie_jim",
-      "github": "https://github.com/lauriejim",
-      "company": "Strapi",
-      "title": "Co-Founder & Chief User Success Officer",
+      "id": "10",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ricohard",
+      "name": "Ricohard Bohuslav",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Engineer",
       "talk": {
-        "id": 5
+        "id": "6"
       },
-      "image": "./speakers-image-jim-laurie.jpg"
+      "image": null
     },
     {
-      "id": 31,
-      "bio": "Anisha is a Front-end Developer at IBM, she has been there for 3 years. Anisha is passionate about promoting diversity, React and coffee!",
-      "slug": "anisha-malde",
-      "name": "Anisha Malde",
-      "twitter": null,
-      "github": null,
-      "company": "IBM",
+      "id": "11",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "lothaire",
+      "name": "Lothaire Darius",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://twitter.com/vercel",
+      "company": "Company",
+      "title": "Software Developer",
+      "talk": {
+        "id": "18"
+      },
+      "image": null
+    },
+    {
+      "id": "12",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "chariovalda",
+      "name": "Chariovalda Magdalena",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Tech Lead",
+      "talk": {
+        "id": "9"
+      },
+      "image": null
+    },
+    {
+      "id": "13",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "brunhild",
+      "name": "Brunhild Calvin",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "21"
+      },
+      "image": null
+    },
+    {
+      "id": "14",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "manas",
+      "name": "Manas Kerman",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://twitter.com/vercel",
+      "company": "Company",
+      "title": "CFO",
+      "talk": {
+        "id": "5"
+      },
+      "image": null
+    },
+    {
+      "id": "15",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ram",
+      "name": "Ram Hanan",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/Ram Hanan",
+      "company": "Company",
+      "title": "Senior Software Engineer",
+      "talk": {
+        "id": "13"
+      },
+      "image": null
+    },
+    {
+      "id": "16",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "lallie",
+      "name": "Lallie Viggo",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Vice President of Cloud",
+      "talk": {
+        "id": "24"
+      },
+      "image": null
+    },
+    {
+      "id": "17",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "jazmin",
+      "name": "Jazmin Sanel",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
       "title": "Developer",
       "talk": {
-        "id": 8
+        "id": "15"
       },
-      "image": "./speakers-image-anisha-malde.jpg"
+      "image": null
     },
     {
-      "id": 32,
-      "bio": "Ekene is a Developer Experience Engineer at Netlify. When he's not working and doing Jamstacky things, he likes teaching and learning new things.",
-      "slug": "ekene-eze",
-      "name": "Ekene Eze",
-      "twitter": "https://twitter.com/kenny_io",
-      "github": null,
-      "company": "Netlify",
-      "title": "Developer Experience Engineer",
+      "id": "18",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "hadyn",
+      "name": "Hadyn Faye",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "President",
       "talk": {
-        "id": 4
+        "id": "17"
       },
-      "image": "./speakers-image-ekene-eze.jpg"
+      "image": null
     },
     {
-      "id": 33,
-      "bio": "Bart Witteveen is the Lead Developer and Architect of Smartshore Ability. He has been the man who introduced Strapi within our team! ",
-      "slug": "bart-witteveen",
-      "name": "Bart\tWitteveen",
-      "twitter": null,
-      "github": null,
-      "company": "Smartshore Ability",
-      "title": "Architect",
+      "id": "19",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "katell",
+      "name": "Katell Kali",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Creator",
       "talk": {
-        "id": 16
+        "id": "7"
       },
-      "image": "./speakers-image-bart-witteveen.jpg"
+      "image": null
     },
     {
-      "id": 34,
-      "bio": "Brent is a technical professional and hobbyist.  Bottom line, Brent loves learning and using new tech to solve problems.  With more years of technical experience than he would care to admit, he helped start Motiv Solutions to help customers accomplish their desired business outcomes.\n\n",
-      "slug": "brent-griffin",
-      "name": "Brent Griffin",
-      "twitter": null,
-      "github": null,
-      "company": "Motiv Solutions",
-      "title": "Chief Strategy Officer",
+      "id": "20",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ramses",
+      "name": "Ramses Reinaldo",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Software Engineer",
       "talk": {
-        "id": 26
+        "id": "4"
       },
-      "image": "./speakers-image-brent-griffin.jpg"
+      "image": null
     },
     {
-      "id": 35,
-      "bio": "Tamas is a Google Developer Expert in Web Technologies and a Developer Experience Engineer. He has more than a decade of experience delivering technical training to large, prestigious organisations. He is passionate about unlocking the latest & greatest features of web development.",
-      "slug": "tamas-piros",
-      "name": "Tamas Piros",
-      "twitter": "https://twitter.com/tpiros",
-      "github": "https://github.com/tpiros",
-      "company": "Cloudinary",
-      "title": "Developer Experience Engineer",
+      "id": "21",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "peg",
+      "name": "Peg Amaterasu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Accessibility / Front-End",
       "talk": {
-        "id": 10
+        "id": "19"
       },
-      "image": "./speakers-image-tamas-piros.jpg"
+      "image": null
+    },
+    {
+      "id": "22",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "terese",
+      "name": "Terese Kreka",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Developer Advocate",
+      "talk": {
+        "id": "14"
+      },
+      "image": null
+    },
+    {
+      "id": "23",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "fabiana",
+      "name": "Fabiana Aramis",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "CEO",
+      "talk": {
+        "id": "2"
+      },
+      "image": null
+    },
+    {
+      "id": "24",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "maksim",
+      "name": "Maksim Vishal",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Lead Engineer",
+      "talk": {
+        "id": "20"
+      },
+      "image": null
+    },
+    {
+      "id": "25",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "purnima",
+      "name": "Süheyla Purnima",
+      "twitter": "https://github.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Founder",
+      "talk": {
+        "id": "23"
+      },
+      "image": null
+    },
+    {
+      "id": "26",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "kleon",
+      "name": "Kleon Renaud",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Engineer",
+      "talk": {
+        "id": "8"
+      },
+      "image": null
+    },
+    {
+      "id": "27",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "catahecassa",
+      "name": "Catahecassa Sarra",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Manager",
+      "talk": {
+        "id": "4"
+      },
+      "image": null
+    },
+    {
+      "id": "28",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "neha",
+      "name": "Neha Beatriu",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Founder",
+      "talk": {
+        "id": "13"
+      },
+      "image": null
+    },
+    {
+      "id": "29",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "mariyam",
+      "name": "Mariyam Bricius",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Director of Technology",
+      "talk": {
+        "id": "22"
+      },
+      "image": null
+    },
+    {
+      "id": "30",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "alon",
+      "name": "Alon Neelima",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Head of Development",
+      "talk": {
+        "id": "16"
+      },
+      "image": null
+    },
+    {
+      "id": "31",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "bhaskar",
+      "name": "Bhaskar Folami",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Software Architect",
+      "talk": {
+        "id": "12"
+      },
+      "image": null
+    },
+    {
+      "id": "32",
+      "bio": "They have over ten years of experience building blazing-fast web applications with Next.js and Vercel. Outside of work, they enjoy hiking, skiing, and surfing. Before becoming a developer, they worked in finance for a Fortune 500 company.",
+      "slug": "ensio",
+      "name": "Ensio Heidi",
+      "twitter": "https://twitter.com/vercel",
+      "github": "https://github.com/vercel",
+      "company": "Company",
+      "title": "Senior Software Developer",
+      "talk": {
+        "id": "11"
+      },
+      "image": null
     }
   ],
   "stages": [
     {
-      "id": 1,
-      "name": "Stage: A",
+      "id": "1",
+      "name": "Stage A",
       "slug": "a",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
-      "order": "1",
-      "discord": "",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "0",
+      "discord": "https://discord.com",
       "schedule": [
         {
-          "id": 24
+          "id": "1"
         },
         {
-          "id": 10
+          "id": "2"
         },
         {
-          "id": 7
+          "id": "3"
         },
         {
-          "id": 2
+          "id": "4"
         },
         {
-          "id": 3
+          "id": "8"
         },
         {
-          "id": 8
-        },
-        {
-          "id": 16
-        },
-        {
-          "id": 4
-        },
-        {
-          "id": 29
-        },
-        {
-          "id": 26
-        },
-        {
-          "id": 23
-        },
-        {
-          "id": 30
-        },
-        {
-          "id": 14
-        },
-        {
-          "id": 9
+          "id": "23"
         }
       ]
     },
     {
-      "id": 2,
-      "name": "Stage: M",
-      "slug": "m",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
-      "order": "2",
-      "discord": "",
-      "schedule": [
-        {
-          "id": 18
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 17
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 10
-        },
-        {
-          "id": 26
-        },
-        {
-          "id": 19
-        },
-        {
-          "id": 11
-        },
-        {
-          "id": 29
-        },
-        {
-          "id": 20
-        },
-        {
-          "id": 23
-        },
-        {
-          "id": 25
-        },
-        {
-          "id": 30
-        },
-        {
-          "id": 21
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Stage: C",
-      "slug": "c",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
-      "order": "3",
-      "discord": "",
-      "schedule": [
-        {
-          "id": 28
-        },
-        {
-          "id": 29
-        },
-        {
-          "id": 15
-        },
-        {
-          "id": 13
-        },
-        {
-          "id": 30
-        },
-        {
-          "id": 22
-        },
-        {
-          "id": 10
-        },
-        {
-          "id": 12
-        },
-        {
-          "id": 26
-        },
-        {
-          "id": 23
-        },
-        {
-          "id": 6
-        },
-        {
-          "id": 27
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Stage: E",
+      "id": "2",
+      "name": "Stage E",
       "slug": "e",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
-      "order": "4",
-      "discord": "",
-      "schedule": []
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "3",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "17"
+        },
+        {
+          "id": "19"
+        },
+        {
+          "id": "20"
+        },
+        {
+          "id": "21"
+        },
+        {
+          "id": "22"
+        },
+        {
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Stage C",
+      "slug": "c",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "1",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "5"
+        },
+        {
+          "id": "6"
+        },
+        {
+          "id": "7"
+        },
+        {
+          "id": "9"
+        },
+        {
+          "id": "10"
+        },
+        {
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Stage M",
+      "slug": "m",
+      "stream": "https://www.youtube.com/embed/1-NzQ9ObsfM",
+      "order": "2",
+      "discord": "https://discord.com",
+      "schedule": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "12"
+        },
+        {
+          "id": "13"
+        },
+        {
+          "id": "14"
+        },
+        {
+          "id": "15"
+        },
+        {
+          "id": "16"
+        },
+        {
+          "id": "18"
+        }
+      ]
     }
   ],
   "talks": [
     {
-      "id": 1,
-      "title": "Enriching Commerce Data In Headless Architectures",
-      "start": "2021-04-22T18:00:00.000Z",
-      "end": "2021-04-22T18:30:00.000Z",
-      "description": "Headless Commerce APIs give you the same flexibility and scalability as you can expect from a Headless CMS. Where e-commerce platforms are designed to work with product data and checkout systems, the latter is best suited to manage rich web content for the rest of your website. To keep this separation of concern, you combine these two headless architectures! In this talk I'll show how to use the headless Saleor Commerce and enrich that data by combining it with Strapi CMS. \n",
-      "speakers": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Strapi as a publishing platform for the largest local sports betting platform",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Strapi as a publishing platform for our marketing team tool arsenal with the possibility to manage and deliver content to our players without limitations in mind with feature use. ",
-      "speakers": [
-        {
-          "id": 8
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Hasura Workshop: Build a powerful fullstack app for JAMStack with Hasura and Strapi",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "In this workshop, you will be building a powerful application backend with role based authorization using Hasura. Strapi's GraphQL API will be used as a remote data source to generate a unified GraphQL API in Hasura\n\nPrerequisites:\nFamiliarity with GraphQL is preferred \n\nSkill level:\nIntermediate ",
-      "speakers": [
-        {
-          "id": 22
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "How to Jamstack in a dynamic era",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "There’s a general misconception that since Jamstack sites and applications don't rely on traditional server architectures, they come at the cost of dynamic, powerful experiences. The reality is, Jamstack sites are great for creating highly dynamic, interactions using powerful tools like serverless functions and a variety of third-party services.\n\nIn this session, we'll look at how a Jamstack architecture, with serverless functions and Strapi CMS, help developers deliver scale, performance, and a rich content authoring experience, without the burden of servers or infrastructure to maintain\"",
-      "speakers": [
-        {
-          "id": 32
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Top 10 Strapi Tips",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "In this talk, we will go through 10 tips that will cover almost every aspect of a Strapi project.\nThis will help you understand how Strapi works behind the hood by reviewing some specific use-cases. ",
-      "speakers": [
-        {
-          "id": 30
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Headless Commerce done right, with Commerce Layer",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
-      "speakers": [
-        {
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Jammin on Strapi",
-      "start": "2021-04-22T19:15:00.000Z",
-      "end": "2021-04-22T19:45:00.000Z",
-      "description": "In this talk, we'll build a Jamstack site with Strapi and Next.js all in 25 minutes. It will have static and dynamic components and be blazing fast.",
-      "speakers": [
-        {
-          "id": 21
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "title": "0 to Production in 60 days",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:00:00.000Z",
-      "description": "0 to Production in 4 sprints sounds like the title to a horror movie but it was the reality Covid created. As a response to the current situation we were tasked with building a showcase platform for the students of UAL to upload and display their work for the world to see. I want to take you through the journey I had and how Strapi made it possible.",
-      "speakers": [
-        {
-          "id": 31
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Content-Types Builder 101",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "Deep dive into how to configure Strapi Content-Types Builder to recreate the Strapi.io navigation and universal pages.",
-      "speakers": [
-        {
-          "id": 27
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
-      "speakers": [
-        {
-          "id": 35
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Best Practices For Gatsby + Strapi",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "In this talk, Sam will give some examples on how you can use Gatsby & Strapi together, why Gatsby is a great match for Strapi (and vice versa), and then he will dive into some example demo code of use cases.",
-      "speakers": [
-        {
-          "id": 20
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Integrate open-source search into your Strapi project",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "I will present the problematics of in-app search with a quick recap of the state of search today. Then I will introduce MeiliSearch as a solution and explain how it solves the problems mentioned before. Finally, I will show through a demonstration how to use it simply with Strapi collections using the plugin we created.",
-      "speakers": [
-        {
-          "id": 18
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "title": "Gather More Meaningfully with Strapi and Magic",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "An insightful tutorial on how I built an events page where users could sign up and RSVP to upcoming gatherings that were consciously-crafted. The events management system is powered by Strapi, while secure user authentication is made possible with the Magic plugin.",
-      "speakers": [
-        {
-          "id": 12
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "In this session, we will show you how to integrate strapi, Node-Red and ionic to build a full stack javascript application for personalized weather warnings.",
-      "speakers": [
-        {
-          "id": 16
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "title": "Creating a notification plugin for Expo with Strapi",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "In this talk, we'll look at how a simple idea, and need, can be real in few days by using Strapi to implement a notification system. We'll get into how to use Expo Notification to send notification to your mobile application (using Expo), taking a look into the plugin I built and the many Strapi features in implements, and showing you how to use it with any Strapi project.",
-      "speakers": [
-        {
-          "id": 5
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "title": "Creating a new media newspaper platform                 ",
-      "start": "2021-04-22T18:00:00.000Z",
-      "end": "2021-04-22T18:30:00.000Z",
-      "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
-      "speakers": [
-        {
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "title": "A bit of Web Application Security",
-      "start": "2021-04-22T18:00:00.000Z",
-      "end": "2021-04-22T18:30:00.000Z",
-      "description": "It's dangerous to go alone! Running a web application can be scary if you don't have experience in attacking and securing them. In this talk, we will go through principles of Web Application security and how they can impact a Strapi production. ",
-      "speakers": [
-        {
-          "id": 25
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "title": "Effective caching strategies for a faster JAMstack",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "JAMstack was born from a great desire for more performant web applications. As your applications grow, your caching strategies need to adapt to the ever-changing needs of your web application. Using the right caching strategy for the right type of web application is critical to experience the full benefits of the JAMstack. Come along with me on this journey to master the best practices and strategies to caching your JAMstack applications in a modern era.",
-      "speakers": [
-        {
-          "id": 14
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "title": "Content Modeling Best Practices",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Content modeling is one of Strapi's modeling type.\nIn content type modelling, the user creates a JSON file that represents how data will be structured in the data base and a set of lifecycle hooks in javascript file that determines how and when data should be called into their web application.\n\nWith the lifecycle hook in place, content type data structures can only be used for one API’s model. \"",
-      "speakers": [
-        {
-          "id": 13
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "title": "Wise approach for community & commercial Strapi plugins development",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "Typically there are no tradeoffs, we have to choose if we’re engaging into the community or just focus on delivering commercial business value for our clients using open source. How to manage it wisely?",
-      "speakers": [
-        {
-          "id": 9
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "title": "Strapi + Nuxt.js + Composition Api = ❤️",
-      "start": "2021-04-22T19:15:00.000Z",
-      "end": "2021-04-22T19:45:00.000Z",
-      "description": "Nuxt.js - the intuitive framework built on top of Vue - is the perfect fit for Strapi, especially when it comes to Jamstack.\nIn this session, we will build the fitting frontend for our Strapi CMS by leveraging the Composition API and ensure it is performant and fast.\nGet insights into the world of Vue and Nuxt, useful patterns for the Composition API and possibly some sneak peaks",
-      "speakers": [
-        {
-          "id": 17
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "title": "The state of modern e-commerce",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "Modern e-commerce is a beautiful mess. Let's unscramble it. In this session, Snipcart CEO Francois Lanthier Nadeau will explore:\n\n1. Technical paradigms overview: monolithic, Jamstack, and headless commerce\n2. The fragmentation of e-commerce functionality\n3. The explosion of e-commerce offering: new solutions categories\n4. How to pick your e-commerce stack\n\n•No prerequisites \n•Skills level: beginner",
-      "speakers": [
-        {
-          "id": 26
-        }
-      ]
-    },
-    {
-      "id": 23,
+      "id": "1",
       "title": "Keynote",
-      "start": "2021-04-22T15:00:00.000Z",
-      "end": "2021-04-22T16:30:00.000Z",
-      "description": "StrapiConf Keynote featuring Strapi co-founders, CTO, well-known speaker from the JAMstack ecosystem as well as top Strapi users and customers. ",
+      "start": "2020-10-27T08:00:00.000Z",
+      "end": "2020-10-27T08:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 10
+          "id": "5"
         },
         {
-          "id": 11
+          "id": "6"
         },
         {
-          "id": 15
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Using the Next.js Image Component",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "You Don't Need A Compiler: A Hot Take",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "20"
         },
         {
-          "id": 29
+          "id": "27"
         }
       ]
     },
     {
-      "id": 24,
-      "title": "Boosting Productivity and Team Velocity with Strapi",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Enhance your team's velocity and take productivity to the next level. ",
+      "id": "4",
+      "title": "Why Next.js Is Great for You",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 28
+          "id": "14"
         }
       ]
     },
     {
-      "id": 25,
-      "title": "Extending your Strapi app with lifecycle hooks, controllers and services",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-03-22T19:15:00.000Z",
-      "description": "A quick introduction to the most useful tools for extending your Strapi app's functionality. We will slugify a blog post with a lifecycle method, attach an author to it in the controller and see an example of how a Service can be used.",
+      "id": "5",
+      "title": "Serverless Databases at the Edge",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 6
+          "id": "10"
         }
       ]
     },
     {
-      "id": 26,
-      "title": "Motiv Solutions Workshop: Moving Content Between Multiple Strapi Environments",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": null,
+      "id": "6",
+      "title": "Deploying to the Edge with Vercel",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 23
+          "id": "15"
         },
         {
-          "id": 34
+          "id": "28"
         }
       ]
     },
     {
-      "id": 27,
-      "title": "Examining Observability in Node.js using Strapi",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Observability is important to learn what’s happening in your app to stay competitive and create the most performant and efficient applications, following the best practices.\n\nIn this talk, we will explore useful tools to examine observability in your applications and how it will speed up development, produce better code while improving reliability and uptime. Don’t miss it!",
+      "id": "7",
+      "title": "React Fundamentals",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 19
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "title": "Editorial workflows, GIT them here!",
-      "start": "2021-04-22T19:15:00.000Z",
-      "end": "2021-05-16T19:45:00.000Z",
-      "description": "How do we reconcile the differences between the needs of our developers and those of our content creation teams? Have you ever run into an editorial team who just doesn’t want to get their hands dirty with Git? There’s plenty of them. Strapi’s fantastic for giving them an interface to organize content to be consumed by frontends, but many of their needs work directly against Git-centric development workflows (aka GitOps) we see today.\n \nIn this talk, we’ll cover how Strapi can be deployed alongside a frontend consuming application on a single project on Platform.sh. From there, we’ll slowly piece together two parallel workflows for teams with very different needs in mind:\n- Editorial: don’t touch Git. Live content previews. Runtime collection creation that moves to master. \n- Development: Git as the source of truth, repeatable builds, isolated environments, Infrastructure-as-code. ",
-      "speakers": [
-        {
-          "id": 7
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "title": "Platform.sh Workshop: Build a production Strapi instance service by service with Platform.sh",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "Strapi is a tremendous tool for quickly building content APIs, but building a local app into a production site comes with all the same concerns any other site has. Primarily, you need to be able to quickly and repeatedly provision infrastructure for new features and each new pull request to the application. In this workshop, we’ll show you how the infrastructure-as-code approach of Platform.sh can offload all of your infrastructure needs directly onto Git by adding multiple service containers with just a few lines of YAML,  providing you with an efficient development workflow as you build out your production headless CMS.",
-      "speakers": [
-        {
-          "id": 1
+          "id": "2"
         },
         {
-          "id": 24
+          "id": "30"
         }
       ]
     },
     {
-      "id": 30,
-      "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
+      "id": "8",
+      "title": "Building Apps So Fast Your Boss is Confused",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
-          "id": 2
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "What are Vercelians?",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "How to Design in Next.js",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Incrementally Adopting Next.js",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Building Your First E-Commerce Site",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "11"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Using a CMS with Next.js (And Why)",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "29"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Using i18n Routing with Next 10",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "4"
+        },
+        {
+          "id": "7"
+        },
+        {
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Is Twitter Good Or Bad For You?",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "19"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "How To Use Dynamic Routing",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "32"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "When And When Not To useEffect",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "31"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Will React Survive in 2030?",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "22"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "How To Do Proper Accessibility",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "21"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "From Zero to Production",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "25"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Using MDX for Markdown",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "26"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "React vs. Vue vs. Svelte",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:20:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "10 Reasons You Don't Need a Custom Server",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:20:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Using Preview Deploys with Vercel",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
+      "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
+      "speakers": [
+        {
+          "id": "18"
         }
       ]
     }
